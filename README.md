@@ -1,2 +1,2 @@
 # SFMLTemplate
-my CMake SFML Template for MSVC 2022
+my CMake SFML Template x86 MSVC 2022 for vscode
